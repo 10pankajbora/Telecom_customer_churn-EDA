@@ -13,7 +13,7 @@ This project's final output is an interactive dashboard built in Tableau. It all
 
 **[➡️ Click here to view the Live Interactive Dashboard on Tableau Public]:[https://public.tableau.com/views/Book1_17544184956070/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link]**
 
-![Dashboard Screenshot]([https://github.com/10pankajbora/Telecom_customer_churn-EDA/blob/main/dashboard_v2.png])
+![Dashboard Screenshot]([dashboard_v2.png])
 
 ---
 
