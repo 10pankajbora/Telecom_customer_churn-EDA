@@ -11,7 +11,7 @@
 
 This project's final output is an interactive dashboard built in Tableau. It allows for dynamic exploration of the factors affecting user retention.
 
-**[➡️ Click here to view the Live Interactive Dashboard on Tableau Public]:[https://public.tableau.com/views/Book1_17544184956070/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link]**
+**[➡️ Click here to view the Live Interactive Dashboard on Tableau Public]:[(https://public.tableau.com/views/Book2_17545942208200/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)]**
 
 ![Dashboard Screenshot](dashboard_v2.png)
 
